@@ -35,13 +35,35 @@ The application supports separate dashboards for administrators and gym members.
 gym-membership-management-system/
 │
 ├── assets/
+│   └── style.css
+│
 ├── db/
+│   └── config.php
+│
 ├── includes/
-├── screenshots/
+│   ├── header.php
+│   └── footer.php
+│
 ├── database.sql
-├── *.php files
+│
+├── index.php
+├── login.php
+├── register.php
+├── register_process.php
+├── logout.php
+│
+├── admin_dashboard.php
+├── member_dashboard.php
+├── manage_members.php
+├── manage_plans.php
+├── attendance_report.php
+├── profile.php
+├── checkin.php
+├── checkout.php
+│
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
 ⚙️ Modules Included:
 - Authentication Module

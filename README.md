@@ -81,13 +81,13 @@ gym-membership-management-system/
 • Role-Based Access
 
 📈 Future Enhancements
-• Payment gateway integration
-• QR code attendance
-• BMI calculator
-• Workout tracking
-• Trainer management
-• Email notifications
-• Mobile responsive design
+- Payment gateway integration
+- QR code attendance
+- BMI calculator
+- Workout tracking
+- Trainer management
+- Email notifications
+- Mobile responsive design
 
 👨‍💻 Author:
 Ajay RS

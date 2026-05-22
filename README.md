@@ -5,30 +5,30 @@ The Gym Membership Management System is a web-based application developed using 
 The application supports separate dashboards for administrators and gym members.
 
 🚀 Features:
--> Admin Features
-  • Admin login
-  • Manage gym members
-  • Activate/deactivate memberships
-  • Manage membership plans
-  • View attendance reports
-  • Dashboard analytics
--> Member Features
-  • Member registration and login
-  • View membership details
-  • Update profile
-  • Check-in and check-out system
-  • Track membership status
+- Admin Features
+  - Admin login
+  - Manage gym members
+  - Activate/deactivate memberships
+  - Manage membership plans
+  - View attendance reports
+  - Dashboard analytics
+- Member Features
+  - Member registration and login
+  - View membership details
+  - Update profile
+  - Check-in and check-out system
+  - Track membership status
 
 🛠 Technologies Used:
--> Frontend
-  • HTML
-  • CSS
--> Backend
-  • PHP
--> Database
-  • MySQL
--> Server Environment
-  • XAMPP
+- Frontend
+  - HTML
+  - CSS
+- Backend
+  - PHP
+- Database
+  - MySQL
+- Server Environment
+  - XAMPP
 
 📂 Project Structure:
 gym-membership-management-system/
@@ -43,42 +43,42 @@ gym-membership-management-system/
 └── LICENSE
 
 ⚙️ Modules Included:
-• Authentication Module
-• Registration Module
-• Membership Management
-• Attendance Management
-• Admin Dashboard
-• Member Dashboard
-• Profile Management
+- Authentication Module
+- Registration Module
+- Membership Management
+- Attendance Management
+- Admin Dashboard
+- Member Dashboard
+- Profile Management
 
 ▶️ How to Run the Project:
--> Requirements
-  • XAMPP
-  • PHP
-  • MySQL
-  • Web Browser
--> Steps
+- Requirements
+  - XAMPP
+  - PHP
+  - MySQL
+  - Web Browser
+- Steps
   1. Install XAMPP
   2. Move project folder into:
-    -> htdocs/
+    - htdocs/
   3. Start:
-    -> Apache
-    -> MySQL
+    - Apache
+    - MySQL
   4. Open phpMyAdmin
   5. Create database:
-    -> gym_db
+    - gym_db
   6. Import:
-    -> database.sql
+    - database.sql
   7. Open browser and run:
-    -> http://localhost/gym_management/
+    - http://localhost/gym_management/
 
 💻 Key Functionalities:
-• User Authentication
-• Session Handling
-• Attendance Tracking
-• Membership Expiry Calculation
-• CRUD Operations
-• Role-Based Access
+- User Authentication
+- Session Handling
+- Attendance Tracking
+- Membership Expiry Calculation
+- CRUD Operations
+- Role-Based Access
 
 📈 Future Enhancements
 - Payment gateway integration

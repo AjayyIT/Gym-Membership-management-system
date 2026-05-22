@@ -31,6 +31,7 @@ The application supports separate dashboards for administrators and gym members.
   - XAMPP
 
 📂 Project Structure:
+```
 gym-membership-management-system/
 │
 ├── assets/
@@ -41,7 +42,7 @@ gym-membership-management-system/
 ├── *.php files
 ├── README.md
 └── LICENSE
-
+```
 ⚙️ Modules Included:
 - Authentication Module
 - Registration Module

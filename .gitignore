@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# XAMPP / local server files
+xampp-control.ini
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+
+# Temporary files
+*.tmp

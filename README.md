@@ -83,17 +83,17 @@ gym-membership-management-system/
 - Steps
   1. Install XAMPP
   2. Move project folder into:
-    - htdocs/
+      - htdocs/
   3. Start:
-    - Apache
-    - MySQL
+      - Apache
+      - MySQL
   4. Open phpMyAdmin
   5. Create database:
-    - gym_db
+      - gym_db
   6. Import:
-    - database.sql
+      - database.sql
   7. Open browser and run:
-    - http://localhost/gym_management/
+      - http://localhost/gym_management/
 
 💻 Key Functionalities:
 - User Authentication
